@@ -1,0 +1,11 @@
+# Dependency directories
+node/
+node_modules/
+
+# OS generated files
+.DS_Store
+
+# VsCode configs
+.vscode/
+
+package-lock.json
